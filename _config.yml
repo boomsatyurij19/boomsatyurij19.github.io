@@ -35,20 +35,7 @@ github:
   username: timothystewart6             # change to your github username
 twitter:
   username: technotimlive            # change to your twitter username
-patreon:
-  username: technotim
-twitch:
-  username: technotim
-instagram:
-  username: techno.tim
-facebook:
-  username: TechnoTimLive
-discord:
-  invitelink: akMB4HJpvF
-youtube:
-  channelid: UCOk-gHyjcWZNj3Br4oxwh0A
-tiktok:
-  username: '@technotim'
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -67,24 +54,6 @@ social:
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-google_analytics:
-  id: 'G-NZ5V7DM8F5'          # Fill with your Google Analytics ID
-  # Google Analytics pageviews report settings
-  pv:
-    proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
-    cache_path:       # the local PV cache data, friendly to visitors from GFW region
-
-# Prefer color scheme setting.
-#
-# Note: Keep empty will follow the system prefer color by default,
-# and there will be a toggle to switch the theme between dark and light
-# on the bottom left of the sidebar.
-#
-# Available options:
-#
-#     light  - Use the light color scheme
-#     dark   - Use the dark color scheme
-#
 theme_mode: dark # [light|dark]
 
 # The CDN endpoint for images.
@@ -101,7 +70,7 @@ avatar: https://avatars.githubusercontent.com/u/1322205?s=400&u=5b4f2219006577dc
 toc: true
 
 comments:
-  active: giscus        # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: disqus        # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
