@@ -54,7 +54,7 @@ social:
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-theme_mode: dark # [light|dark]
+theme_mode: light # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
