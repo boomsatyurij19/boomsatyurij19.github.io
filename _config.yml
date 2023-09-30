@@ -32,7 +32,7 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://technotim.live'
 
 
-theme_mode: light # [light|dark]
+theme_mode: [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
